@@ -30,8 +30,8 @@ Job Market Insights is a web application that provides users with up-to-date job
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/M-Charith/Job-Market-Insights.git
-   cd Job-Market-Insights
+   git https://github.com/M-Charith/-JOBBY-.git
+   cd -JOBBY-
    ```
 
 2. **Install Backend Dependencies:**
