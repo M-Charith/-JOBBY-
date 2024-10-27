@@ -77,9 +77,6 @@ Job Market Insights is a web application that provides users with up-to-date job
 ## Deployment
 The application has been deployed on Heroku. You can access the live version via this [link](#).
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Author
 - [M. Charith](https://github.com/M-Charith)
 
