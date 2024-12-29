@@ -1,1 +1,0 @@
-// Handles job application actions
