@@ -1,1 +1,0 @@
-// Component for job application form

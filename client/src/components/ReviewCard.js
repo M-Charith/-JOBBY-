@@ -1,1 +1,0 @@
-// Component to display reviews from employees
